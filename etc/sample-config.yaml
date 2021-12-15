@@ -1,0 +1,2 @@
+WorkingDir: /opt/ofs-workdir
+LoggingDir: /opt/ofs-workdir/ofs.log

@@ -1,0 +1,7 @@
+{
+    "TargetRelease": "openEuler-21.09",
+    "PackageLists": [
+        {"binutils": "https://gitee.com/src-openeuler/binutils.git"},
+        {"gcc": "https://gitee.com/src-openeuler/gcc.git"}
+    ]
+}
