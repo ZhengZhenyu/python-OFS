@@ -1,0 +1,13 @@
+UpstreamRepo: http://repo.openeuler.org/openEuler-21.09/everything/x86_64/
+PackageList: config/x86_64/sample_list.json
+KSConfig: configs/x86_64/ks.cfg
+ProductName: openEuler
+ProductVersion: 21.09
+ProductRelease: 1
+ProductType: iso
+ProductVariant: server
+WorkingDir: /opt/ofs-workspace
+BuildDir: /tmp
+SrcDir: /tmp/src
+DebugDir: /tmp/debug
+LogPath: /var/log/ofs
